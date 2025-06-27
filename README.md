@@ -1,7 +1,7 @@
 # Bank of Quack V3 — two-person finance tracker
 
 A lightweight money tracker for couples built with **React + Vite** on a **Supabase** backend and styled with **shadcn/ui**.  
-Track shared expenses, reimbursements and income, see live balances, and keep everything fair-and-square.
+Track shared expenses, reimbursements and income, see live balances, and keep everything fair-and-square...
 
 ---
 
